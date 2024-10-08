@@ -14,8 +14,8 @@ fn main() {
     let a: u32 = 40; //32 bit unsigned integer
     let b: u8 = 240; //8 bit signed integer
 
-    let x2: f32 = 4.65 //32 bit floating point number
-    let y2: f64 = 4.767 //64 bit floating point number
+    let x2: f32 = 4.65; //32 bit floating point number
+    let y2: f64 = 4.767; //64 bit floating point number
 
 
 
