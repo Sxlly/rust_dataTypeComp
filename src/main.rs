@@ -18,8 +18,8 @@ fn main() {
     let y2: f64 = 4.767; //64 bit floating point number
 
 
-    let x3: bool = false;
-    let y3: &str = "0";
+    let x3: bool = false; //define x3 as a boolean data type with value false
+    let y3: &str = "0"; //define y3 as a string data type with value "0"
 
     if x3 == false && y3 == false { //if x3 is false and y3 is also false do the following
 
