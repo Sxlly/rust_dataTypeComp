@@ -23,12 +23,12 @@ fn main() {
 
     if x3 == false && y3 == false { //if x3 is false and y3 is also false do the following
 
-        println!("x3 and y3 are false")
+        println!("x3 and y3 are false") //print to terminal "x3 and y3 are false"
     }
 
-    else {
+    else { //if above conditions are not satisfied do the following 
 
-        println!("x3 and y3 are true")
+        println!("x3 and y3 are true") //print to terminal "x3 and y3 are true"
     }
 
 
